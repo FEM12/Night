@@ -1,0 +1,31 @@
+{
+  "name": "night",
+  "displayName": "Night",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/Night.png",
+  "author": {
+    "name": "Victor Marroquin",
+    "email": "victormarroquin469@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FEM12/Night.git"
+  },
+  "publisher": "fem12N"
+}
