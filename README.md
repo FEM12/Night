@@ -8,6 +8,6 @@ The night theme has been developed to be used in the visual studio code envirome
 
 ## theme previews
 
-![night theme](images/night_1.png "Theme night")
+![night theme](images/Night_1.png)
 
-![night theme](images/night_2.png "Theme night")
+![night theme](images/Night_2.png)
