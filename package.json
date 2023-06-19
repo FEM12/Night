@@ -1,8 +1,8 @@
 {
   "name": "night",
   "displayName": "Night",
-  "description": "Dark theme for visual studio code",
-  "version": "1.1.0",
+  "description": "Dark and minimalist theme for VSCode",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.79.0"
   },

@@ -6,7 +6,7 @@ The night theme has been developed to be used in the visual studio code envirome
 
 ![color palette](images/color_palette.png "color palette")
 
-## theme previews
+## Theme previews
 
 ![night theme](images/Night_1.png)
 
